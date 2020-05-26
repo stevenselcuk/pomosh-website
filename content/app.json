@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "garlic",
-    "label": "Awesome Remote Jobs on your menubar",
-    "summary": "🧄  Would you like to discover latest remote jobs? Get some garlic now and find your next awesome remote job now 🙌",
+    "name": "Pomosh",
+    "label": "Pomodoro Technique Assistant",
+    "summary": "🍅 Awesome productivity tool for Remote workers in Covid19 days.",
     "picture": "../src/images/logo.png",
     "logo": "../src/images/logo.png",
     "email": "stevenjselcuk@gmail.com",
-    "website": "https://garlic.netlify.com",
+    "website": "https://pomosh.netlify.com",
     "isOpenSource": true,
-    "repo": "https://github.com/stevenselcuk/garlic",
+    "repo": "https://github.com/stevenselcuk/pomosh",
     "profiles": [
       {
         "network": "Blog",

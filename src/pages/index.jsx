@@ -21,7 +21,7 @@ function Home({ pageContext }) {
       <SEO title={basics.name} description={basics.label} />
       <div className={styles.hero}>
         <div>
-          <div className={styles.hugetitle}>🍅 Pomosh</div>
+          <div className={styles.hugetitle}>Pomosh</div>
           <div className={styles.desc}>
             is your next awesome Pomodoro Technique Assistant. Lives in your in
             in your menubar.

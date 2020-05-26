@@ -1,12 +1,12 @@
 # most personal metadata can be found in ./resume.json
 
-- description: Portfolio of web &amp; ui designer/developer hybrid Matthias Kretschmann.
-  img: ../src/images/product.png
-  productImg: ../src/images/product.png
+- description: Pomosh App
+  img: ../src/images/tomato.png
+  productImg: ../src/images/tomato.png
   downloadBadgeDark: ../src/images/downloadBadgeDarg.svg
-  repo: https://github.com/stevenselcuk/garlic
-  bugs: https://github.com/stevenselcuk/garlic/issues
-  gatsbyThemePromotion: https://github.com/stevenselcuk/garlic-website
+  repo: https://github.com/stevenselcuk/pomosh
+  bugs: https://github.com/stevenselcuk/pomosh/issues
+  gatsbyThemePromotion: https://github.com/stevenselcuk/pomosh-website
 
   availability:
     status: false
