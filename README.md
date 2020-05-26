@@ -13,7 +13,7 @@
 
 <p align="center">
     <img
-      src="]https://i.imgur.com/r44etlJ.png"
+      src="https://i.imgur.com/r44etlJ.png"
       height="500"
       alt="Pomosh Website"
       title="Pomosh website"
