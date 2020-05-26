@@ -21,15 +21,15 @@ function Home({ pageContext }) {
       <SEO title={basics.name} description={basics.label} />
       <div className={styles.hero}>
         <div>
-          <div className={styles.hugetitle}>garlic</div>
+          <div className={styles.hugetitle}>🍅 Pomosh</div>
           <div className={styles.desc}>
-            can help you with finding your next awesome remote job🙌 Lives right
+            is your next awesome Pomodoro Technique Assistant. Lives in your in
             in your menubar.
           </div>
           <div className={styles.badge}>
             <a
               href="https://apps.apple.com/us/app/garlic-for-remote-jobs/id1509031122?ls=1"
-              title="Download the garlic for Remote Jobs on the App Store"
+              title="Download the Pomosh on the App Store"
             >
               <DownloadBadge />
             </a>
@@ -40,7 +40,7 @@ function Home({ pageContext }) {
           src={image}
           className={styles.productimage}
           alt="iMac Mockup"
-          title="garlic for Remote Jobs"
+          title="Pomosh"
         />
       </div>
     </>
