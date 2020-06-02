@@ -28,8 +28,8 @@ function Home({ pageContext }) {
           </div>
           <div className={styles.badge}>
             <a
-              href="https://apps.apple.com/us/app/garlic-for-remote-jobs/id1509031122?ls=1"
-              title="Download the Pomosh on the App Store"
+              href="https://apps.apple.com/us/app/pomosh/id1515791898?ls=1"
+              title="Download the Pomosoh on the App Store"
             >
               <DownloadBadge />
             </a>
