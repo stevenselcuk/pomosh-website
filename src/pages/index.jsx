@@ -21,10 +21,10 @@ function Home({ pageContext }) {
       <SEO title={basics.name} description={basics.label} />
       <div className={styles.hero}>
         <div>
-          <div className={styles.hugetitle}>Pomosh</div>
+          <div className={styles.hugetitle}>🍅Pomosh</div>
           <div className={styles.desc}>
-            is your next awesome Pomodoro Technique Assistant. Lives in your in
-            in your menubar.
+            is your next awesome Pomodoro Technique Assistant. For 📱iOS,
+            ⌚️WatchOS and 💻macOS.
           </div>
           <div className={styles.badge}>
             <a
@@ -34,18 +34,13 @@ function Home({ pageContext }) {
               <DownloadBadge />
             </a>
           </div>
-          <a href="https://www.producthunt.com/posts/pomosh-for-macos?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-pomosh-for-macos">
-            <img
-              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=204674&theme=light"
-            />
-          </a>
         </div>
 
         <img
           src={image}
           className={styles.productimage}
-          alt="iMac Mockup"
-          title="Pomosh"
+          alt="Apple Watch Mockup"
+          title="Pomosh for Apple Watch"
         />
       </div>
     </>
